@@ -16,3 +16,4 @@ Symbols
 =======
 check/tick  
 cross  
+hheart - ♥  
