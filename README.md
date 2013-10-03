@@ -14,5 +14,5 @@ iPad - iPad
 
 Symbols
 =======
-check/tick
-cross
+check/tick  
+cross  
