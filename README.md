@@ -1,4 +1,4 @@
-Text-Shortcuts
+text-shortcuts
 ==============
 
 Collection of my text shortcuts and autocorrect word list
